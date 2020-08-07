@@ -1,0 +1,1 @@
+Pentru a rula fiecare proiect in parte, sa va asigurati ca folderul pe care il deschideti in VSCode este in interiorul folderului "curs x", unde se afla package.json
